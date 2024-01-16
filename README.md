@@ -4,7 +4,7 @@
 
 ### I'm 18 years old Self-taught Backend developer from Russia.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+in+ct+mtuci)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+in+ct+mtuci.)](https://git.io/typing-svg)
 
 
 ## ⚡ Stats
